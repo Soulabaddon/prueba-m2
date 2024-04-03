@@ -1,0 +1,11 @@
+body{
+    background-image: url('https://previews.123rf.com/images/robuart/robuart1605/robuart160500323/57495027-concepto-de-la-transferencia-de-dinero-en-un-fondo-blanco-ilustraci%C3%B3n-vectorial.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.container{
+    max-width: 450px;
+    margin: 80px auto;
+    background-color: cyan;
+}

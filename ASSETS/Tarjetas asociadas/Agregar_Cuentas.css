@@ -1,0 +1,27 @@
+body {
+    background-image: url('https://media.istockphoto.com/id/640267784/es/foto/edificio-del-banco.jpg?s=1024x1024&w=is&k=20&c=kXh2eCincpD7LaUBLsqDt9AL7N9ls7EYY-4Fni22hNo=');
+    background-size: cover; /* Ajusta la imagen al tamaño de la ventana */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center center; /* Centra la imagen *</
+    /* Otros estilos personalizados para el contenido de la página */
+}
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #dddf53;
+}
+
+.list-group-item {
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+
+.btn-primary {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-primary:hover {
+    background-color: #22aa16;
+    border-color: #00060c;
+}

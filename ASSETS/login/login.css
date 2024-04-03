@@ -1,0 +1,30 @@
+.card {
+    margin-top: 1000px;
+}
+
+.card-header {
+    background-color: cyan;
+    color: beige;
+}
+
+.btn-primary {
+    background-color: cyan;
+    border-color: cyan;
+}
+
+.btn-primary:hover {
+    background-color:#dd0f0f;
+    border-color: #ca0a0a;
+}
+#checkbookForm {
+    width: 80%; 
+    margin-left: 2%; 
+}
+
+/* personalizar imagen de fondo */
+body {
+    background-image: url('https://s2.ppllstatics.com/diariovasco/www/multimedia/202112/12/media/cortadas/neobancos-knj-U16019085843166F-1248x770@Diario%20Vasco.jpg');
+    background-size: cover; /* ajusta la imagen al tamaño de la pagina*/
+    background-repeat: no-repeat; /* la imagen de fondo no se repite */
+    background-position: center center; /* imagen centrada */
+}
